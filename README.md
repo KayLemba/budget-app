@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# BudgeT App
+# Budget App
 
-> BudgeT App is a mobile web application that allows you to manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+> Budget App is a mobile web application that allows you to manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 ----
 _[Here](https://www.loom.com/share/f958cea5075e4e7b9a65958038d1f6b7)  link to the project presentation video_
 
@@ -74,7 +74,7 @@ If you encounter any errors, run the following commands.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Donard97/recipe-app/issues).
+Feel free to check the [issues page]
 
 # Show your support
 
