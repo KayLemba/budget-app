@@ -88,7 +88,7 @@ h1 {
 
 .container-fluid {
   background: rgba(255, 255, 255, 0.25);
-  #box-shadow: 0 8px 32px 0 #3778c2;
+  box-shadow: 0 8px 32px 0 #3778c2;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-radius: 10px;
