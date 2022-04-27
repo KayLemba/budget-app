@@ -27,7 +27,7 @@
   height: 100vh;
   top: 0;
   left: 0;
-  background: #708d8c;
+  background: #fff;
   overflow: hidden;
 }
 
@@ -88,7 +88,7 @@ h1 {
 
 .container-fluid {
   background: rgba(255, 255, 255, 0.25);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  #box-shadow: 0 8px 32px 0 #3778c2;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-radius: 10px;
@@ -98,4 +98,22 @@ h1 {
 .text-muted {
   font-size: 44px;
   font-weight: 800;
+}
+
+.btn-info {
+  color: #434b54;
+  background-color: #3778c2;
+  border-color: #3778c2;
+}
+
+.btn-light {
+  color: #434b54;
+  background-color: #edf0f3;
+  border-color: #f6f6f7;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #5fb523;
+  border-color: #5fb523;
 }

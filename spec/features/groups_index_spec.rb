@@ -22,7 +22,7 @@ RSpec.feature 'Groups', type: :feature do
   scenario 'add new category' do
     click_link 'Add a new category'
     fill_in 'Name', with: 'Test'
-    attach_file('Image', 'app/assets/images/Screen.png')
+    attach_file('Image', 'app/assets/images/home.png')
     click_button 'Save'
     expect(page).to have_content('Test')
     expect(page).to have_button('Delete')
@@ -40,7 +40,7 @@ RSpec.feature 'Groups', type: :feature do
   scenario 'add new category' do
     click_link 'Add a new category'
     fill_in 'Name', with: 'Test'
-    attach_file('Image', 'app/assets/images/transactions_page.png')
+    attach_file('Image', 'app/assets/images/transac.png')
     click_button 'Save'
     click_link 'Test'
     click_link 'Add new transaction'
